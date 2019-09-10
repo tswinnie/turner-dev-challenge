@@ -1,0 +1,14 @@
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\bin\Debug\netcoreapp2.1\turner-dev.Data.deps.json
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\bin\Debug\netcoreapp2.1\turner-dev.Data.runtimeconfig.json
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\bin\Debug\netcoreapp2.1\turner-dev.Data.runtimeconfig.dev.json
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\bin\Debug\netcoreapp2.1\turner-dev.Data.dll
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\bin\Debug\netcoreapp2.1\turner-dev.Data.pdb
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\bin\Debug\netcoreapp2.1\turner-dev.Core.dll
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\bin\Debug\netcoreapp2.1\turner-dev.Core.pdb
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\obj\Debug\netcoreapp2.1\turner-dev.Data.csprojAssemblyReference.cache
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\obj\Debug\netcoreapp2.1\turner-dev.Data.csproj.CoreCompileInputs.cache
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\obj\Debug\netcoreapp2.1\turner-dev.Data.AssemblyInfoInputs.cache
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\obj\Debug\netcoreapp2.1\turner-dev.Data.AssemblyInfo.cs
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\obj\Debug\netcoreapp2.1\turner-dev.Data.csproj.CopyComplete
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\obj\Debug\netcoreapp2.1\turner-dev.Data.dll
+C:\Users\tyron\OneDrive\Desktop\Turner\turner-dev\turner-dev.Data\obj\Debug\netcoreapp2.1\turner-dev.Data.pdb

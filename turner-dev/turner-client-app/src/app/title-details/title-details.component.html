@@ -1,0 +1,14 @@
+<div *ngIf="title">
+  <h1>Details:</h1>
+  <h4>{{title.titleName | uppercase}}</h4>
+  <div><span>id: </span>{{title.titleId}}</div>
+  <div>
+    <span>Title Name Sortable: </span>{{title.titleNameSortable}}
+    <br />
+    <span>Release Year: </span>{{title.releaseYear}}
+    <br />
+    <span>Genre: </span>{{title.titleGenre}}
+    <br />
+    <span>Storyline: </span>{{title.storyLine}}
+  </div>
+</div>

@@ -1,0 +1,10 @@
+<div id="title-component">
+  <app-title-search></app-title-search>
+  <ul class="search-result">
+    <li *ngFor="let title of titles$ | async">
+      <a routerLink="/detail/{{title.titleId}}">
+        {{title.titleName}}
+      </a>
+    </li>
+  </ul>
+</div>

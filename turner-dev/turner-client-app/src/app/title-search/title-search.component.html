@@ -1,0 +1,35 @@
+<div id="search-component">
+  <div class="container-fluid">
+    <div class="form-group row">
+      <div class="mx-auto">
+        <h4><label id="search-box-title" for="search-box-title">Title Search</label></h4>
+        <p class="sub-heading">Just start typing to see all of the available titles</p>
+        <input #searchBox id="search-box" placeholder="Search by Title Name" class="form-control" (input)="search(searchBox.value)" />
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="form-group row">
+      <div class="mx-auto">
+        <!-- search results -->
+        <ul class="search-result">
+          <li *ngFor="let title of titleResults$ | async"
+              [class.selected]="title === selectedTitle"
+              (click)="onSelect(title)">
+            <div class="card w-75 results-cards">
+              <div class="card-body">
+                <h5 class="card-title">{{title.titleName}}</h5>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <!-- Details view -->
+        <div class="card details-card">
+          <div class="card-body">
+            <app-title-details [title]="selectedTitle"></app-title-details>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
